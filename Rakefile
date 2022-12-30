@@ -4,3 +4,6 @@
 require_relative "config/application"
 
 Rails.application.load_tasks
+
+
+# rails generate model task tittle:string details:text completed:boolean
